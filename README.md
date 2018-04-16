@@ -1,0 +1,2 @@
+# CPUTypeLibFactory
+生成可获取android手机CPU类型的so库
