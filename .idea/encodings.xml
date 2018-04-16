@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/cputypelibfactory/src/main/java/com/laipengxu/cputypelibfactory/CpuTypeUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cputypelibfactory/src/main/java/com/laipengxu/cputypelibfactory/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cputypelibfactory/src/main/jni/com_laipengxu_cputypelibfactory_CpuTypeUtils.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cputypelibfactory/src/main/jni/cpu-features.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cputypelibfactory/src/main/jni/main.cpp" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CPUTypeLibFactory.iml" filepath="$PROJECT_DIR$/CPUTypeLibFactory.iml" />
+      <module fileurl="file://D://CPUTypeLibFactory/CPUTypeLibFactory.iml" filepath="D://CPUTypeLibFactory/CPUTypeLibFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cputypelibfactory/cputypelibfactory.iml" filepath="$PROJECT_DIR$/cputypelibfactory/cputypelibfactory.iml" />
+    </modules>
+  </component>
+</project>
